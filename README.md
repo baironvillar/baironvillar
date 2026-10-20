@@ -29,7 +29,7 @@ publishes from a tag — than on the features.
 | Project | What it is | Stack |
 |---|---|---|
 | **[Starless](https://github.com/baironvillar/Starless)** | Unofficial desktop client for Spotify Premium. Decoded audio goes from the backend straight to the system driver over WASAPI and never touches the window. Signed auto-updates, zero telemetry, ES/EN. | Tauri 2 · Rust · React 19 · TypeScript |
-| **[Starter Motors Ecosystem](https://github.com/baironvillar/starter-motors-ecosystem)** | My final degree project — an ecosystem platform for the starter motor industry. | _stack here_ |
+| **[Starter Motors Ecosystem](https://github.com/baironvillar/starter-motors-ecosystem)** | My final degree project — an ecosystem platform for the starter motor industry. | Next.js · Supabase |
 | **[fexsi-web](https://github.com/baironvillar/fexsi-web)** | Production site delivered to a client. | Astro · TypeScript |
 
 > Full case studies with architecture decisions and trade-offs live in my
@@ -94,7 +94,7 @@ el CI que publica desde un tag — que a las funcionalidades.
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | **[Starless](https://github.com/baironvillar/Starless)** | Cliente de escritorio no oficial para Spotify Premium. El audio decodificado va del backend directo al driver del sistema por WASAPI y nunca pasa por la ventana. Actualizaciones firmadas, cero telemetría, ES/EN. | Tauri 2 · Rust · React 19 · TypeScript |
-| **[Starter Motors Ecosystem](https://github.com/baironvillar/starter-motors-ecosystem)** | Mi proyecto de título — plataforma para la industria de motores de arranque. | _stack aquí_ |
+| **[Starter Motors Ecosystem](https://github.com/baironvillar/starter-motors-ecosystem)** | Mi proyecto de título — plataforma para la industria de motores de arranque. | Next.js · Supabase |
 | **[fexsi-web](https://github.com/baironvillar/fexsi-web)** | Sitio en producción entregado a un cliente. | Astro · TypeScript |
 
 > Los casos de estudio completos, con decisiones de arquitectura y sus trade-offs, están en mi
